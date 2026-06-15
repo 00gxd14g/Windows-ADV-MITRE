@@ -53,7 +53,7 @@ The Windows Audit Testing Docker environment provides:
 
 ```powershell
 # Navigate to project directory
-cd win-example-audit-mitre
+cd Windows-ADV-MITRE
 
 # Run all tests (build, start container, run tests)
 .\scripts\Local-DockerTest.ps1 -Action All

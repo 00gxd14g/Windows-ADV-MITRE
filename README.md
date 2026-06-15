@@ -1,6 +1,6 @@
 # Windows Event Auditing & MITRE ATT&CK Mapping
 
-[![Build Status](https://github.com/00gxd14g/win-example-audit-mitre/actions/workflows/windows-docker-tests.yml/badge.svg)](https://github.com/00gxd14g/win-example-audit-mitre/actions/workflows/windows-docker-tests.yml)
+[![Build Status](https://github.com/00gxd14g/Windows-ADV-MITRE/actions/workflows/windows-docker-tests.yml/badge.svg)](https://github.com/00gxd14g/Windows-ADV-MITRE/actions/workflows/windows-docker-tests.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)](https://microsoft.com/powershell)
 [![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)](https://www.microsoft.com/windows)
@@ -21,7 +21,7 @@ This repository provides a complete toolkit for configuring, testing, and valida
 ## 📂 Repository Structure
 
 ```text
-win-example-audit-mitre/
+Windows-ADV-MITRE/
 ├── scripts/
 │   ├── SysmonLikeAudit.ps1        # Advanced audit policy configuration
 │   ├── win-audit.ps1              # MITRE-guided audit policy
@@ -127,7 +127,8 @@ This playbook replicates the comprehensive `SysmonLikeAudit` configuration, ensu
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](docs/CONTRIBUTING.md) (coming soon) or simply fork and submit a PR.
+Contributions are welcome. Open an issue for substantial changes or submit a
+focused pull request with the relevant validation results.
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)

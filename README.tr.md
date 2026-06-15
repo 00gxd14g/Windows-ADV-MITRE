@@ -1,6 +1,6 @@
 # Windows Olay Denetimi ve MITRE ATT&CK Eşleştirmesi
 
-[![Build Status](https://github.com/00gxd14g/win-example-audit-mitre/actions/workflows/windows-docker-tests.yml/badge.svg)](https://github.com/00gxd14g/win-example-audit-mitre/actions/workflows/windows-docker-tests.yml)
+[![Build Status](https://github.com/00gxd14g/Windows-ADV-MITRE/actions/workflows/windows-docker-tests.yml/badge.svg)](https://github.com/00gxd14g/Windows-ADV-MITRE/actions/workflows/windows-docker-tests.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)](https://microsoft.com/powershell)
 [![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)](https://www.microsoft.com/windows)
@@ -21,7 +21,7 @@ Bu proje, Windows Güvenlik Denetimi'ni yapılandırmak, test etmek ve doğrulam
 ## 📂 Proje Yapısı
 
 ```text
-win-example-audit-mitre/
+Windows-ADV-MITRE/
 ├── scripts/
 │   ├── SysmonLikeAudit.ps1        # Gelişmiş denetim politikası yapılandırması
 │   ├── win-audit.ps1              # MITRE rehberliğinde denetim politikası
